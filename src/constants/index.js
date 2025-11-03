@@ -176,6 +176,6 @@ export const socials = [
     name: "Youtube",
     href: "https://www.youtube.com/",
   },
-  { name: "LinkedIn", href: "https://www.linkedin.com/parthesh01" },
+  { name: "LinkedIn", href: "https://www.linkedin.com/in/parthesh01/" },
   { name: "GitHub", href: "https://github.com/parthesh01" },
 ];
