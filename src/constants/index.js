@@ -80,11 +80,11 @@ export const servicesData = [
 export const projects = [
   {
     id: 1,
-    name: "AI Resume Analyser",
+    name: " AI Resume Analyzer SaaS",
     description:
-      "An AI-powered Resume Analyzer that evaluates your resume’s impact, relevance, and keyword strength—helping you stand out to recruiters.",
-    href: "",
-    image: "/assets/projects/mobile-accessories-store.jpg",
+      "An AI-driven tool that evaluates resumes for keyword relevance, structure, and recruiter appeal using NLP and scoring models.",
+    href:"https://resumateaianalyzer.vercel.app/",
+    image: "/assets/projects/resumate.png",
     bgImage: "/assets/backgrounds/blanket.jpg",
     frameworks: [
       { id: 1, name: "React" },
@@ -96,31 +96,31 @@ export const projects = [
   },
   {
     id: 2,
-    name: "Plant Shop E-commerce",
+    name: "BioSphere – Metagame Layer Concept",
     description:
-      "An online store specializing in rare and decorative plants with a clean, user-friendly interface.",
+      "A conceptual project — merging gaming, social interaction, and progression into one immersive digital ecosystem.",
     href: "",
-    image: "/assets/projects/plant-shop.jpg",
+    image: "/assets/projects/biosphere.png",
     bgImage: "/assets/backgrounds/curtains.jpg",
     frameworks: [
       { id: 1, name: "React" },
-      { id: 2, name: "Next.js" },
-      { id: 3, name: "Stripe API" },
+      { id: 2, name: "Node.js" },
+      { id: 3, name: "GSAP" },
       { id: 4, name: "Tailwind CSS" },
     ],
   },
   {
     id: 3,
-    name: "Apple Tech Marketplace",
+    name: "Social Media App – Connect & Share",
     description:
-      "An e-commerce platform for Apple products and accessories with deals and category filtering.",
+      "A micro social platform where users can post, like, and follow others — blending intuitive UI with real-time interaction.",
     href: "",
-    image: "/assets/projects/apple-tech-store.jpg",
+    image: "/assets/projects/peliconnect1.png",
     bgImage: "/assets/backgrounds/map.jpg",
     frameworks: [
-      { id: 1, name: "Blazor" },
-      { id: 2, name: "ASP.NET Core" },
-      { id: 3, name: "SQL Server" },
+      { id: 1, name: "React" },
+      { id: 2, name: "AppWrite" },
+      { id: 3, name: "NodeJS" },
       { id: 4, name: "Bootstrap" },
     ],
   },
@@ -171,11 +171,11 @@ export const projects = [
   },
 ];
 export const socials = [
-  { name: "Instagram", href: "https://www.instagram.com/" },
+  { name: "Instagram", href: "https://www.instagram.com/skrrrthesh" },
   {
     name: "Youtube",
     href: "https://www.youtube.com/",
   },
-  { name: "LinkedIn", href: "https://www.linkedin.com/" },
-  { name: "GitHub", href: "https://github.com/" },
+  { name: "LinkedIn", href: "https://www.linkedin.com/n/parthesh-pardeshi-626a172a" },
+  { name: "GitHub", href: "https://github.com/parthesh01" },
 ];
